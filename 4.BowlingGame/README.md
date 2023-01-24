@@ -1,8 +1,8 @@
 # Bowling Game Kata
 
-1. Create a class called "BowlingGame" with a method called "roll" that takes an integer as an input (representing the number of pins knocked down in a roll).
+1. Create a class called "BowlingGame" with a method called "Roll" that takes an integer as an input (representing the number of pins knocked down in a roll).
 
-2. Create another method called "score" that calculates and returns the total score for the game.
+2. Create another method called "Score" that calculates and returns the total score for the game.
 
 3. The game consists of 10 frames. In each frame, the player has two rolls to knock down as many pins as possible.
 
