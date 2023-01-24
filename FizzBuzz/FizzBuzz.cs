@@ -1,7 +1,6 @@
-﻿namespace FizzBuzz
-{
-    public class FizzBuzz
-    {
+﻿namespace FizzBuzz;
 
-    }
+public class FizzBuzz
+{
+
 }
