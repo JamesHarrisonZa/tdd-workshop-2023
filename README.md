@@ -2,7 +2,7 @@
 
 For Serko interns 2022/2023
 
-Presentation slides [👉here 👈](https://www.canva.com/design/DAFYcUeMYc8/cu_606Zgoirnzqrp95wCfw/view?utm_content=DAFYcUeMYc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+Presentation slides [👉 here 👈](https://www.canva.com/design/DAFYcUeMYc8/cu_606Zgoirnzqrp95wCfw/view?utm_content=DAFYcUeMYc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ## FizzBuzz Kata
 

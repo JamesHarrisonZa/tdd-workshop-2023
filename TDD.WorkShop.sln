@@ -37,13 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculator", "2.Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculator.Tests", "2.StringCalculator\StringCalculatorTests\StringCalculator.Tests.csproj", "{5212DF32-4814-4D65-B8C1-23D64C983A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "3.RomanNumerals\RomanNumerals\RomanNumerals.csproj", "{75167AD9-8185-4408-8D7F-A430A72EBC1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumerals", "3.RomanNumerals\RomanNumerals\RomanNumerals.csproj", "{75167AD9-8185-4408-8D7F-A430A72EBC1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Tests", "3.RomanNumerals\RomanNumerals.Tests\RomanNumerals.Tests.csproj", "{7950E2A2-A5C6-41F5-A0C0-E9CA98EC90B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumerals.Tests", "3.RomanNumerals\RomanNumerals.Tests\RomanNumerals.Tests.csproj", "{7950E2A2-A5C6-41F5-A0C0-E9CA98EC90B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame", "4.BowlingGame\BowlingGame\BowlingGame.csproj", "{2F03544D-DE27-4F34-B7DF-5D43B90FDC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingGame", "4.BowlingGame\BowlingGame\BowlingGame.csproj", "{2F03544D-DE27-4F34-B7DF-5D43B90FDC79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame.Tests", "BowlingGame.Tests\BowlingGame.Tests.csproj", "{2E745946-81CD-4EF1-ABCD-1F1064E31D85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingGame.Tests", "4.BowlingGame\BowlingGame.Tests\BowlingGame.Tests.csproj", "{3B0C906E-8AE8-478B-8B13-474E32D207D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,10 +79,10 @@ Global
 		{2F03544D-DE27-4F34-B7DF-5D43B90FDC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F03544D-DE27-4F34-B7DF-5D43B90FDC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F03544D-DE27-4F34-B7DF-5D43B90FDC79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2E745946-81CD-4EF1-ABCD-1F1064E31D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E745946-81CD-4EF1-ABCD-1F1064E31D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E745946-81CD-4EF1-ABCD-1F1064E31D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E745946-81CD-4EF1-ABCD-1F1064E31D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0C906E-8AE8-478B-8B13-474E32D207D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C906E-8AE8-478B-8B13-474E32D207D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C906E-8AE8-478B-8B13-474E32D207D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C906E-8AE8-478B-8B13-474E32D207D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,7 +95,7 @@ Global
 		{75167AD9-8185-4408-8D7F-A430A72EBC1A} = {75DCA5FB-0EDD-4225-AE11-91E2A8143B03}
 		{7950E2A2-A5C6-41F5-A0C0-E9CA98EC90B8} = {75DCA5FB-0EDD-4225-AE11-91E2A8143B03}
 		{2F03544D-DE27-4F34-B7DF-5D43B90FDC79} = {DEF6FE2B-FAB7-4D2B-92AA-865763576D91}
-		{2E745946-81CD-4EF1-ABCD-1F1064E31D85} = {DEF6FE2B-FAB7-4D2B-92AA-865763576D91}
+		{3B0C906E-8AE8-478B-8B13-474E32D207D3} = {DEF6FE2B-FAB7-4D2B-92AA-865763576D91}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29E34E9B-5A5D-4669-B59C-A85ED03DC523}
