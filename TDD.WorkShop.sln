@@ -15,10 +15,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. FizzBuzz", "1. FizzBuzz"
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. StringCalculator", "2. StringCalculator", "{B307D489-14C1-4849-A220-90DD8CDEE800}"
+	ProjectSection(SolutionItems) = preProject
+		2.StringCalculator\README.md = 2.StringCalculator\README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "1.FizzBuzz\FizzBuzz\FizzBuzz.csproj", "{CE46363E-7793-43DD-80DE-1308A714FE58}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz.Tests", "1.FizzBuzz\FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{262DF21E-DC19-47B6-9B7D-3F86279DE9A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. RomanNumerals", "3. RomanNumerals", "{75DCA5FB-0EDD-4225-AE11-91E2A8143B03}"
+	ProjectSection(SolutionItems) = preProject
+		3.RomanNumerals\README.md = 3.RomanNumerals\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. BowlingGame", "4. BowlingGame", "{DEF6FE2B-FAB7-4D2B-92AA-865763576D91}"
+	ProjectSection(SolutionItems) = preProject
+		4.BowlingGame\README.md = 4.BowlingGame\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
